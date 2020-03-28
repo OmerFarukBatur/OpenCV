@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:4:7-33
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:5-48
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:5-48
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:5-48
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:5-48
+INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:5-48
+	android:targetSdkVersion
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:16-45
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:7:5-48
+		INJECTED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:11:5-84
+	android:required
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:11:58-82
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:12:5-94
+	android:required
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:12:68-92
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:13:5-90
+	android:required
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:13:64-88
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:13:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:14:5-100
+	android:required
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:14:74-98
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:14:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\src\main\AndroidManifest.xml:16:22-77
