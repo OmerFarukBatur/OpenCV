@@ -3,24 +3,24 @@
 3    package="org.opencv.test" >
 4
 5    <uses-sdk
-5-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:5:5-74
+5-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:5:5-74
 6        android:minSdkVersion="14"
-6-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:5:15-41
+6-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:5:42-71
+7-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:5:42-71
 8
 9    <instrumentation
-9-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:11:5-15:65
+9-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:11:5-15:65
 10        android:name="android.test.InstrumentationTestRunner"
-10-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:11:22-75
+10-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:11:22-75
 11        android:functionalTest="false"
-11-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:14:22-52
+11-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:14:22-52
 12        android:handleProfiling="false"
-12-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:13:22-53
+12-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:13:22-53
 13        android:label="Tests for org.opencv.test"
-13-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:15:22-63
+13-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:15:22-63
 14        android:targetPackage="org.opencv.test" />
-14-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:12:22-61
+14-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:12:22-61
 15
 16    <uses-permission android:name="android.permission.CAMERA" />
 16-->[__tested_artifact__::openCVLibrary349] C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
@@ -54,13 +54,16 @@
 31    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 31-->[__tested_artifact__::openCVLibrary349] C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-81
 31-->[__tested_artifact__::openCVLibrary349] C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:22-78
-32
-33    <application android:debuggable="true" >
-33-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:7:5-9:19
-33-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:7:18-43
-34        <uses-library android:name="android.test.runner" />
-34-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:8:9-60
-34-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6018820900563987487.xml:8:23-57
-35    </application>
-36
-37</manifest>
+32    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+32-->[__tested_artifact__::openCVLibrary349] C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-80
+32-->[__tested_artifact__::openCVLibrary349] C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:22-77
+33
+34    <application android:debuggable="true" >
+34-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:7:5-9:19
+34-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:7:18-43
+35        <uses-library android:name="android.test.runner" />
+35-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:8:9-60
+35-->C:\Users\OmerF\AndroidStudioProjects\OpenCV\openCVLibrary349\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6557877242866479042.xml:8:23-57
+36    </application>
+37
+38</manifest>
